@@ -1,4 +1,4 @@
-# Hi 👋, I'm Olamide, a Full Stack Web Developer and ALX Software Engineering GRAD
+# Hello 👋, I'm Olamide, a Full Stack Web Application Developer and ALX Software Engineering GRAD
 
 <!--Intro start-->
 
@@ -6,14 +6,14 @@
 
 - 🌱 I’m currently learning **System Design and Architecture to enable me build high quality Scalable Applications.**
 
-- ☁️ I have keen interest in cloud computing. So, I plan on learning **AWS**
+- ☁️ I have keen interest in back-end development and cloud computing.
 
 - 💬 Ask me about **Flask, React, Nodejs, ExpressJs, MongoDB**
 
 - 📫 Feel free to reach me at **olamide_aliyu@outlook.com**
 
 - 🏠 Also I moderate a tech community called [ALx-Alumni: Past-Present Connections](https://discord.gg/9s8BXwt8).
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">See my <a href="https://docs.google.com/document/d/1Q9gPBHtMB05G5fpreZf7mOpJJ5X4Xzfqe_U1lmrObeM/edit?usp=sharing" target="_blank">resume</a> for more</h4>
 </div>
 <!--Intro end-->
 
@@ -37,3 +37,16 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
