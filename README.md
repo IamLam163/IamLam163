@@ -1,12 +1,12 @@
-### Hi 👋, I'm Olamide, a Full Stack Web Developer and ALX SE GRAD
+# Hi 👋, I'm Olamide, a Full Stack Web Developer and ALX Software Engineering GRAD
 
 <!--Intro start-->
 
 - 🔭 I’m currently working on **Flask, Nodejs, ExpressJs, React, MongoDB**
 
-- 🌱 I’m currently learning **System Design and Architecture to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **System Design and Architecture to enable me build high quality Scalable Applications.**
 
-- ☁️ I have keen interest in cloud computing. So, I'm learning **AWS**
+- ☁️ I have keen interest in cloud computing. So, I plan on learning **AWS**
 
 - 💬 Ask me about **Flask, React, Nodejs, ExpressJs, MongoDB**
 
