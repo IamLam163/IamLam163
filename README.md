@@ -1,4 +1,21 @@
-### Hi 👋, I'm Olamide
+### Hi 👋, I'm Olamide, a Full Stack Web Developer and ALX SE GRAD
+
+<!--Intro start-->
+
+- 🔭 I’m currently working on **Flask, Nodejs, ExpressJs, React, MongoDB**
+
+- 🌱 I’m currently learning **System Design and Architecture to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I have keen interest in cloud computing. So, I'm learning **AWS**
+
+- 💬 Ask me about **Flask, React, Nodejs, ExpressJs, MongoDB**
+
+- 📫 Feel free to reach me at **olamide_aliyu@outlook.com**
+
+- 🏠 Also I moderate a tech community called [ALx-Alumni: Past-Present Connections](https://discord.gg/9s8BXwt8).
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+</div>
+<!--Intro end-->
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -20,5 +37,3 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-
