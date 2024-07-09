@@ -15,7 +15,7 @@
 - 📰 Here is a Link to my [Hashnode Articles](https://devlam.hashnode.dev/)
 
 - 🏠 Also I moderate a tech community called [ALx-Alumni: Past-Present Connections](https://discord.gg/9s8BXwt8).
-<h4 align="center">See my <a href="https://docs.google.com/document/d/1Q9gPBHtMB05G5fpreZf7mOpJJ5X4Xzfqe_U1lmrObeM/edit?usp=sharing" target="_blank">resume</a> for more</h4>
+<h4 align="center">See my <a href="https://docs.google.com/document/d/1Q9gPBHtMB05G5fpreZf7mOpJJ5X4Xzfqe_U1lmrObeM/edit?usp=sharing" target="_blank"> <b>RESUME</b></a> for more</h4>
 
 </div>
 <!--Intro end-->
